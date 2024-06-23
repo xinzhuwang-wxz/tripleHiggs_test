@@ -1,0 +1,5 @@
+if you want to use data
+1: mkdir raw_data in data
+2: put triHiggs_ML_test_v4.root, triHiggs_ML_train_v4.root, triHiggs_ML_validation_v4.root in raw_data
+
+good luck
